@@ -1,0 +1,68 @@
+
+
+.list {
+	font: icon;
+    font-weight: bold;
+    color: #a3a3ee;
+	position: absolute;
+	left: 668px;
+    top: 132px;
+    
+}
+.first{
+	
+	left: 814px;
+    position: absolute;
+    top: 147px;
+}
+.second{
+	
+	top: 180px;
+    position: absolute;
+    left: 814px;
+}
+.third{
+	
+position: absolute;
+    left: 814px;
+    top: 216px;
+}
+.forth{
+	position: absolute;
+    left: 814px;
+    top: 249px;
+}
+.math{
+	position: absolute;
+    left: 832px;
+    top: 499px;
+}
+.math2{
+	position: absolute;
+    left: 831px;
+    top: 536px;
+
+}
+
+.brexmain{
+	position: absolute;
+    left: 726px;
+    top: 413px;
+}
+ .stripemain{
+	 position: absolute;
+    left: 781px;
+    top: 413px;
+	 
+ }
+ 
+ .amexmain{
+	position: absolute;
+    left: 844px;
+    top: 413px;
+ }
+
+
+
+
+
